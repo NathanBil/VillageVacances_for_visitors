@@ -6,3 +6,4 @@ I did it on my own, because my partner couldn't continue at this time for person
 Nonetheless, he had helped me to design the data base which is used in this project.
 
 You can find a user manual explaining how to navigate through the website.
+There's a part which doesn't find any end  in this manual since it's the technical part.
